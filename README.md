@@ -4,7 +4,7 @@
 
 ## Ссылка на проект
 
-[**Ссылка на GitHub Pages проекта**](https://whxtebexr.github.io/mesto-ad-public/)
+[**GitHub Pages проекта**](https://whxtebexr.github.io/mesto-ad-public/)
 
 ## Технологии
 
